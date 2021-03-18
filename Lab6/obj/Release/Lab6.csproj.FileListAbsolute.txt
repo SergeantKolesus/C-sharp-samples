@@ -1,0 +1,10 @@
+G:\Univer\Графы\Лаба 6\Lab6\bin\Release\Lab6.exe.config
+G:\Univer\Графы\Лаба 6\Lab6\bin\Release\Lab6.exe
+G:\Univer\Графы\Лаба 6\Lab6\bin\Release\Lab6.pdb
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.csprojAssemblyReference.cache
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.Form1.resources
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.Properties.Resources.resources
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.csproj.GenerateResource.cache
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.csproj.CoreCompileInputs.cache
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.exe
+G:\Univer\Графы\Лаба 6\Lab6\obj\Release\Lab6.pdb
