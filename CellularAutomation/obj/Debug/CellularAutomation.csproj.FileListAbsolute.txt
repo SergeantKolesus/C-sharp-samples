@@ -1,0 +1,10 @@
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.csprojAssemblyReference.cache
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.Form1.resources
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.Properties.Resources.resources
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.csproj.GenerateResource.cache
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.csproj.CoreCompileInputs.cache
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\bin\Debug\CellularAutomation.exe.config
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\bin\Debug\CellularAutomation.exe
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\bin\Debug\CellularAutomation.pdb
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.exe
+G:\Univer\Теория алгоритмов\Lab\CellularAutomation\obj\Debug\CellularAutomation.pdb
