@@ -1,0 +1,6 @@
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Release\PracticeTask1.exe.config
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Release\PracticeTask1.exe
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Release\PracticeTask1.pdb
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Release\PracticeTask1.csproj.CoreCompileInputs.cache
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Release\PracticeTask1.exe
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Release\PracticeTask1.pdb

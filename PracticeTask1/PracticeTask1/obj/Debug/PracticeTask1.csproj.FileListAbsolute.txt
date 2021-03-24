@@ -1,0 +1,7 @@
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Debug\PracticeTask1.exe.config
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Debug\PracticeTask1.exe
+D:\SharpTasks\PracticeTask1\PracticeTask1\bin\Debug\PracticeTask1.pdb
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Debug\PracticeTask1.csproj.CoreCompileInputs.cache
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Debug\PracticeTask1.exe
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Debug\PracticeTask1.pdb
+D:\SharpTasks\PracticeTask1\PracticeTask1\obj\Debug\PracticeTask1.csprojAssemblyReference.cache
